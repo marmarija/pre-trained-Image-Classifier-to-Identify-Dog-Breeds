@@ -1,4 +1,4 @@
-# pre-trained-Image-Classifier-to-Identify-Dog-Breeds
+# pre-trained-image-classifier-to-identify-dog-breeds
 First project of the <a href="https://www.udacity.com/course/ai-programming-python-nanodegree--nd089">Ai Programming with Python Nanodegree by Udacity</a> 
 
 Principal Objectives of the Project:
